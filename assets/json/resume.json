@@ -21,7 +21,7 @@
   "education": [
     {
       "institution": "University of Victoria",
-      "location": "Victoria, Canada",
+      "location": "Canada",
       "area": "Electrical and Computer Engineering",
       "studyType": "Master of Applied Science ",
       "startDate": "2021",
@@ -29,7 +29,7 @@
     },
     {
       "institution": "Beijing University of Posts and Telecommunications",
-      "location": "Beijing, China",
+      "location": "China",
       "area": "Telecommunication Engineering",
       "studyType": "Bachelor of Engineering",
       "startDate": "2015",
@@ -61,13 +61,50 @@
   ],
   "interests": [
     {
-      "name": "",
+      "name": "Computer Network",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Computer Network",
+        "Multipath Routing",
         "Congestion Control Algrothim",
-        "Deep Learning"
+        "QUIC"
       ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Fellowship for Graduate Studies",
+      "date": "2024",
+      "awarder": "University of Victoria"
+    },
+    {
+      "title": "Fellowship for Graduate Studies",
+      "date": "2023",
+      "awarder": "University of Victoria"
+    },
+    {
+      "title": "Finalist",
+      "date": "2023",
+      "awarder": "IEEE VTS Storytelling Competition"
+    },
+    {
+      "title": "Finalist",
+      "date": "2023",
+      "awarder": "IEEE 2023 Workshop on Ubiquitous Poster Competition"
+    },
+    {
+      "title": "Fellowship for Graduate Studies",
+      "date": "2022",
+      "awarder": "University of Victoria"
+    },
+    {
+      "title": "Scholarship for Graduate Studies",
+      "date": "2022",
+      "awarder": "University of Victoria"
+    },
+    {
+      "title": "Fellowship for Graduate Studies",
+      "date": "2021",
+      "awarder": "University of Victoria"
     }
   ]
 }
